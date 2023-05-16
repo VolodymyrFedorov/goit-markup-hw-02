@@ -42,3 +42,10 @@ body {
 :focus {
   color: #404bbf;
 }
+
+.footer {
+  background-color: #2e2f42;
+}
+.link {
+  text-decoration: none;
+}
