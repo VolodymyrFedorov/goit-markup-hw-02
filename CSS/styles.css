@@ -3,6 +3,11 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+:root {
+  --primary-text-color: #434455;
+  --logo-color: #4d5ae5;
+  --focus-color: #404bbf;
+}
 
 .logo {
   font-family: "Raleway", sans-serif;
@@ -35,7 +40,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--primary-text-color);
 }
 .mail:hover,
 :focus {
