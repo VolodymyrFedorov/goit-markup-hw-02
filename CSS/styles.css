@@ -68,7 +68,7 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.but1:hover,
+.but1 :hover,
 :focus {
   background-color: #404bbf;
 }
