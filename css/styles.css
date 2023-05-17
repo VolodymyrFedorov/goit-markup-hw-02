@@ -102,3 +102,29 @@ body {
 .but1:focus {
   background-color: #404bbf;
 }
+
+.what-doing {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--studio);
+}
+
+.section4 {
+  background-color: #f4f4fd;
+}
+
+.our-team {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--studio);
+}
+
+.team {
+  background-color: #ffffff;
+}
