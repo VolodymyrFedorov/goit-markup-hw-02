@@ -39,6 +39,11 @@ body {
 :focus {
   color: #404bbf;
 }
+
+.adress {
+  font-style: normal;
+}
+
 .mail {
   font-size: 16px;
   line-height: 1.5;
