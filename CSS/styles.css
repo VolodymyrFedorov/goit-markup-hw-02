@@ -3,6 +3,7 @@ body {
   color: var(--primary-text-color);
   background-color: #ffffff;
 }
+
 :root {
   --primary-text-color: #434455;
   --logo-color: #4d5ae5;
