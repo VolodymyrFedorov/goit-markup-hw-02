@@ -1,12 +1,14 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
+  color: var(--primary-text-color);
   background-color: #ffffff;
 }
 :root {
   --primary-text-color: #434455;
   --logo-color: #4d5ae5;
   --focus-color: #404bbf;
+  --logo-part: #4d5ae5;
+  --studio: #2e2f42;
 }
 
 .logo {
@@ -16,11 +18,11 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--logo-part);
 }
 
 .span {
-  color: #2e2f42;
+  color: var(--studio);
 }
 .list {
   list-style: none;

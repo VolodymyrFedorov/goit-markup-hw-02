@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--primary-text-color);
+  background-color: #ffffff;
+}
+
+:root {
+  --primary-text-color: #434455;
+  --logo-color: #4d5ae5;
+  --focus-color: #404bbf;
+  --logo-part: #4d5ae5;
+  --studio: #2e2f42;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--logo-color);
+}
+
+.link {
+  text-decoration: none;
+}
+
+.span {
+  color: var(--studio);
+}
+
+.main {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main:hover,
+:focus {
+  color: #404bbf;
+}
