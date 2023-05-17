@@ -1,15 +1,15 @@
-body {
-  font-family: "Roboto", sans-serif;
-  color: var(--primary-text-color);
-  background-color: #ffffff;
-}
-
 :root {
   --primary-text-color: #434455;
   --logo-color: #4d5ae5;
   --focus-color: #404bbf;
   --logo-part: #4d5ae5;
   --studio: #2e2f42;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--primary-text-color);
+  background-color: #ffffff;
 }
 
 .logo {
