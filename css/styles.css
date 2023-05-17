@@ -61,7 +61,7 @@ body {
 .link {
   text-decoration: none;
 }
-.section1 {
+.section-1 {
   background-color: #2e2f42;
 }
 .esyb {
@@ -79,6 +79,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
 .but1 :hover,
 :focus {
