@@ -81,7 +81,9 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.but1 :hover,
-:focus {
+.but1 :hover {
+  background-color: #404bbf;
+}
+.but1:focus {
   background-color: #404bbf;
 }
