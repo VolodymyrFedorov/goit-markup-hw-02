@@ -149,7 +149,8 @@ body {
   background-color: var(--batnsp);
   cursor: pointer;
 }
-.butsp :hover,
+
+.butsp:hover,
 :focus {
   color: #ffffff;
   background-color: #404bbf;
