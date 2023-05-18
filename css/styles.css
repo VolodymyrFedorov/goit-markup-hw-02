@@ -4,6 +4,7 @@
   --focus-color: #404bbf;
   --logo-part: #4d5ae5;
   --studio: #2e2f42;
+  --batnsp: #f4f4fd;
 }
 
 body {
@@ -147,4 +148,19 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
+}
+
+.batsp {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-part);
+  background-color: var(--batnsp);
+  cursor: pointer;
+}
+.batsp :hover,
+:focus {
+  color: #ffffff;
 }
