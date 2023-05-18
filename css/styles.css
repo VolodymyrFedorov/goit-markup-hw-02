@@ -43,8 +43,10 @@ body {
   color: #2e2f42;
 }
 
-.main:hover,
-:focus {
+.main:hover {
+  color: #404bbf;
+}
+.main:focus {
   color: #404bbf;
 }
 
@@ -58,8 +60,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
-.mail:hover,
-:focus {
+.mail:hover {
+  color: #404bbf;
+}
+.mail:focus {
   color: #404bbf;
 }
 
