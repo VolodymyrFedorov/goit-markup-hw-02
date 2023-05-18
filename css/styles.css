@@ -43,7 +43,7 @@ body {
   color: #2e2f42;
 }
 
-.main :hover,
+.main:hover,
 :focus {
   color: #404bbf;
 }
