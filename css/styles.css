@@ -25,9 +25,15 @@ body {
 .span {
   color: var(--studio);
 }
+
+.spanf {
+  color: #f4f4fd;
+}
+
 .list {
   list-style: none;
 }
+
 .main {
   font-weight: 500;
   font-size: 16px;
@@ -35,6 +41,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .main:hover,
 :focus {
   color: #404bbf;
